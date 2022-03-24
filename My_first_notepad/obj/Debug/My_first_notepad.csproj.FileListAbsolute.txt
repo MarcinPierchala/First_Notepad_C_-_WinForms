@@ -1,0 +1,16 @@
+C:\Users\Asus\source\repos\My_first_notepad\My_first_notepad\bin\Debug\My_first_notepad.exe.config
+C:\Users\Asus\source\repos\My_first_notepad\My_first_notepad\bin\Debug\My_first_notepad.exe
+C:\Users\Asus\source\repos\My_first_notepad\My_first_notepad\bin\Debug\My_first_notepad.pdb
+C:\Users\Asus\source\repos\My_first_notepad\My_first_notepad\obj\Debug\My_first_notepad.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\My_first_notepad\My_first_notepad\obj\Debug\My_first_notepad.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\source\repos\My_first_notepad\My_first_notepad\obj\Debug\My_first_notepad.Form1.resources
+C:\Users\Asus\source\repos\My_first_notepad\My_first_notepad\obj\Debug\My_first_notepad.Properties.Resources.resources
+C:\Users\Asus\source\repos\My_first_notepad\My_first_notepad\obj\Debug\My_first_notepad.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\My_first_notepad\My_first_notepad\obj\Debug\My_first_notepad.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\My_first_notepad\My_first_notepad\obj\Debug\My_first_notepad.exe
+C:\Users\Asus\source\repos\My_first_notepad\My_first_notepad\obj\Debug\My_first_notepad.pdb
+C:\Users\Asus\source\repos\My_first_notepad\My_first_notepad\obj\Debug\My_first_notepad.AboutMe.resources
+C:\Users\Asus\source\repos\My_first_notepad\My_first_notepad\bin\Debug\My_first_notepad.exe.manifest
+C:\Users\Asus\source\repos\My_first_notepad\My_first_notepad\bin\Debug\My_first_notepad.application
+C:\Users\Asus\source\repos\My_first_notepad\My_first_notepad\obj\Debug\My_first_notepad.exe.manifest
+C:\Users\Asus\source\repos\My_first_notepad\My_first_notepad\obj\Debug\My_first_notepad.application
